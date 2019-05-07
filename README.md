@@ -1,3 +1,5 @@
 # Search Engine
 
-Submission repository for the CS 212 Search Engine project.
+Backend: Java, Java Servlett
+
+Front End: HTML, CSS
